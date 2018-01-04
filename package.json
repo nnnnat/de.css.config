@@ -1,0 +1,15 @@
+{
+  "name": "de.config",
+  "version": "1.0.0",
+  "description": "PostCSS config for de.css",
+  "main": "postcss.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "css",
+    "internets"
+  ],
+  "author": "Nat Hamilton <info@nathamilton>",
+  "license": "MIT"
+}
