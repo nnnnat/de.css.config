@@ -11,5 +11,8 @@
     "internets"
   ],
   "author": "Nat Hamilton <info@nathamilton>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "postcss-simple-vars": "^4.1.0"
+  }
 }
