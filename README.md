@@ -1,3 +1,3 @@
 # de.config
-PostCSS config for de.css
+PostCSS config for [de.css](https://github.com/nnnnat/de.css)
 <hr/>
