@@ -34,7 +34,7 @@ const modifiers = {
   scl: (mixin, prop, mqs, prop2) => {
     let slctr = {}
     let style = {}
-    for (let i = 0; i <= 6; i++) {
+    for (let i = 0; i <= 7; i++) {
       style[`${prop}`] = (i === 0) ? 0 : `$ms${i}`
       if (prop2) style[`${prop2}`] = (i === 0) ? 0 : `$ms${i}`
       mqs === 'mqs' ? slctr[`&${i}`] = { '@mixin mqs': { ...style } } : slctr[`&${i}`] = { ...style }
