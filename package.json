@@ -1,5 +1,5 @@
 {
-  "name": "de.config",
+  "name": "de.css.config",
   "version": "1.0.0",
   "description": "PostCSS config for de.css",
   "main": "postcss.config.js",
